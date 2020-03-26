@@ -8,4 +8,4 @@
 
  # Technologies Used #
 
- Python, Pandas, NumPy, SciPy,
+ Python, Pandas, NumPy, SciPy.
